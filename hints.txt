@@ -1,0 +1,2 @@
+1. File -> Settings -> Search: "Import" -> Add imports on the fly
+Description: No need to alt+enter (only in the cases of several classes in the different packages with the same name you will have to choose correct one)
